@@ -4,7 +4,6 @@ Author: Andrew Kwolek
 Final project from ME449: Robotic Manipulation. Program simulates trajectory using feedforward PI controller to pick and place a block.
 
 ## Quickstart
-Manual exploration:
 1. Start CoppeliaSim
 2. Run `python3 best.py`
 3. Open scene6 and load the generated csv!
